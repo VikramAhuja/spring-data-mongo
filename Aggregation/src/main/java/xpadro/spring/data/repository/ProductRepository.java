@@ -7,8 +7,4 @@ import xpadro.spring.data.domain.Product;
 @Repository
 public interface ProductRepository extends MongoRepository<Product, String> {
 
-    @Override
-    Product save(Product person);
-
-    Product findById(String id);
 }
