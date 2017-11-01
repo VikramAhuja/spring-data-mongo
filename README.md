@@ -11,4 +11,4 @@ Spring Data MongoDB examples
 - <b>aggregation-nested-result</b>: This project shows how to use nested method in projection phase in order to structure the output result of the aggregation query. In this way, you can avoid post-processing the result to a more suitable Java structure.
 
   - Blog post related to this project:
-  http://xpadro.blogspot.com/2016/05/data-aggregation-spring-data-mongodb.html
+  http://xpadro.com/2016/05/data-aggregation-spring-data-mongodb.html
